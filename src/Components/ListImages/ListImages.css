@@ -1,0 +1,7 @@
+.listImage{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 860px;
+  min-width: 320px;
+}
